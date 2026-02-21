@@ -2,10 +2,6 @@
 
 A 3D gravitational orbit simulator built in C++ with [Raylib](https://www.raylib.com/).
 
-<p align="center">
-  <img src="preview.jpg" alt="Ephemeris preview" width="800">
-</p>
-
 ## Purpose
 
 Ephemeris is a learning-driven project designed to strengthen engineering and physics thinking through hands-on practice with:
