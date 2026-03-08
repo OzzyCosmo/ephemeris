@@ -68,3 +68,13 @@ make
 - [ ] Orbital trail visualisation
 - [ ] Realistic scale using real astronomical data
 - [ ] Cinematic camera modes and post-processing effects
+
+## Usage
+
+This repository is shared for **portfolio and educational purposes**.
+
+Please do not copy large portions of the code directly into your own projects.
+If you'd like to use something from this repository, feel free to reference it or reach out.
+
+© 2026 Oscar
+
