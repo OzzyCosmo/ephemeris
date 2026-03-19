@@ -1,6 +1,6 @@
 # Ephemeris
 
-A 3D gravitational orbit simulator built in C++ with [Raylib](https://www.raylib.com/).
+A 3D gravitational orbit simulator built in C++ with [Raylib](https://www.raylib.com/). It's not really meant to have any use, but instead acts as a learning project for the C++ and the underlying math and physics.
 
 ## Purpose
 
